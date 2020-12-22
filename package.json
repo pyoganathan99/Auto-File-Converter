@@ -13,7 +13,7 @@
     "chokidar": "^3.3.0",
     "form-data": "^3.0.0",
     "node-lame": "^1.2.0",
-    "node-notifier": "^6.0.0",
+    "node-notifier": "^8.0.1",
     "systray": "^1.0.5"
   }
 }
